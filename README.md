@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I dont know why i make this.
 -->
 
-<img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" src img>
+<img src = "https://github-readme-stats.vercel.app/api?username=GeoSyOG&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" src img>
